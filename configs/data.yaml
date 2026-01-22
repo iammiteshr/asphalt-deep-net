@@ -1,0 +1,5 @@
+# YOLO data config for pothole detection
+path: ./data
+train: images/train
+val: images/val
+names: [pothole]
